@@ -1,0 +1,6 @@
+build
+__pycache__
+*.lock
+rocket.db
+*.spec
+*egg-info
